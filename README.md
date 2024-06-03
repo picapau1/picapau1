@@ -1,16 +1,15 @@
-## Hi there 👋
+## Boas Vindas ao meu Perfil 🐤
 
-<!--
-**picapau1/picapau1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome É DERIK    
 
-Here are some ideas to get you started:
+_EU ESTUDANDO ALURA
+_ESTOU ME DESENVOLVENDO NA LINGUAGEM JAVASCRIPT 
+_UTILIZO ESSEESPAÇO PARA MINHA ORGANIZACAO E COMPARTIHAMENTO DE UM PROJETOS DESENVOLVIDOS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+_### VOCE PODE ENTRA EM CONTATO 📧
+
+derikcaua47@gmail.com
+
+@derik
+
+[![image](https://github.com/picapau1/picapau1/assets/170985444/17152d2b-f748-41a5-addd-0c9379942e61)
